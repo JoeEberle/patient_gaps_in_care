@@ -48,5 +48,5 @@ To get started with the **Patient Gaps In Care** solution repository, follow the
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](patient_gaps_in_care.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](patient_gaps_in_care.png)  <br>
     
