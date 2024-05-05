@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Patient Gaps In Care - A report on specific patients gaps in care
 A report on specific patients gaps in care
 
@@ -9,8 +11,6 @@ Welcome to the solution **Patient Gaps In Care** - an example for your projects
 A report on specific patients gaps in care
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
