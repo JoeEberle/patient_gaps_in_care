@@ -39,11 +39,8 @@ To get started with the **Patient Gaps In Care** solution repository, follow the
  ![additional_image](patient_gaps_in_care.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
